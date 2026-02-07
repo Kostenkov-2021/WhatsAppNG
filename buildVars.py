@@ -21,13 +21,7 @@ addon_info = AddonInfo(
 	addon_summary=_("WhatsApp Desktop accessibility enhancements"),
 	# Add-on description
 	# Translators: Long description to be shown for this add-on on add-on information from add-on store
-	addon_description=_("""Provides accessibility improvements for the web-based WhatsApp Desktop, including navigation shortcuts, message interaction enhancements, and better screen reader support.
-
-Features:
-- Navigation shortcuts (Alt+1, Alt+2, Alt+D)
-- Voice message playback (Enter)
-- Context menu access (Shift+Enter)
-- Toggle phone number filtering in conversations and messages"""),
+	addon_description=_("Provides accessibility improvements for the web-based WhatsApp Desktop, including navigation shortcuts, message interaction enhancements, and better screen reader support."),
 	# version
 	addon_version="1.1.1",
 	# Brief changelog for this version

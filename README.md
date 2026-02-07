@@ -47,19 +47,9 @@ https://github.com/nrfcosta21/whatsAppNG/issues
 
 ## Translation Compilation
 
-To compile the `.po` file and generate the `.mo` file:
+To update or compile translations:
+```bash
+scons pot
+```
 
-1. Install GNU Gettext:
-   - Windows: http://gnuwin32.sourceforge.net/downlinks/gettext.php
-   - Copy `msgfmt.exe` to the add-on folder
-
-2. Compile the translation:
-   ```bash
-   msgfmt locale/pt_BR/LC_MESSAGES/nvda.po -o locale/pt_BR/LC_MESSAGES/nvda.mo
-   ```
-
-3. Or use Python:
-   ```bash
-   python -m pip install polib
-   python -c "import polib; po = polib.pofile('locale/pt_BR/LC_MESSAGES/nvda.po'); po.save_as_mofile('locale/pt_BR/LC_MESSAGES/nvda.mo')"
-   ```
+This requires GNU Gettext tools to be installed.

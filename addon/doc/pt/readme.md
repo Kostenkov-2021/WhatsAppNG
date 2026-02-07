@@ -85,3 +85,12 @@ Desenvolvido por Nuno Costa para fornecer melhorias de acessibilidade para a exp
 
 Para problemas ou sugestões, visite:
 https://github.com/nunotfc/whatsAppNG/issues
+
+## Compilação de Traduções
+
+Para atualizar ou compilar traduções:
+```bash
+scons pot
+```
+
+Isso requer que as ferramentas GNU Gettext estejam instaladas.

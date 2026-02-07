@@ -1,136 +1,137 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# WhatsApp NG - English Translation
+# Copyright (C) 2025
 # This file is distributed under the same license as the whatsAppNG package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Nuno Costa <nrfcosta21@gmail.com>, 2025.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: whatsAppNG 1.1.1\n"
+"Project-Id-Version: whatsAppNG\n"
 "Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
-"POT-Creation-Date: 2026-02-07 09:05+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"POT-Creation-Date: 2026-02-06 21:33+0000\n"
+"PO-Revision-Date: 2026-02-07 12:29+0300\n"
+"Last-Translator: Umut KORKMAZ <umutkork@gmail.com>\n"
+"Language-Team: Umut KORKMAZ <umutkork@gmail.com>\n"
+"Language: tr_TR\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 #: addon/appModules/whatsapp_root.py:44
 msgid "WhatsApp NG"
-msgstr ""
+msgstr "WhatsApp NG"
 
 #: addon/appModules/whatsapp_root.py:265
 msgid "Copy current message to clipboard"
-msgstr ""
+msgstr "Geçerli mesajı panoya kopyala"
 
 #: addon/appModules/whatsapp_root.py:306 addon/appModules/whatsapp_root.py:334
 #: addon/appModules/whatsapp_root.py:346
 msgid "Copied"
-msgstr ""
+msgstr "Kopyalandı"
 
 #. Not a message or couldn't copy
 #: addon/appModules/whatsapp_root.py:350
 msgid "Cannot copy"
-msgstr ""
+msgstr "Kopyalanamadı"
 
 #: addon/appModules/whatsapp_root.py:354
 msgid "Play voice message"
-msgstr ""
+msgstr "Sesli mesajı oynat"
 
 #. No slider or button found
 #: addon/appModules/whatsapp_root.py:368 addon/appModules/whatsapp_root.py:437
 #: addon/appModules/whatsapp_root.py:440
 msgid "No audio message found"
-msgstr ""
+msgstr "Sesli mesaj bulunamadı"
 
 #. Translators: Read complete message (click "read more" and speak text)
 #: addon/appModules/whatsapp_root.py:444
 msgid "Read complete message (clicks 'read more' button)"
-msgstr ""
+msgstr "Mesajın tamamını oku ('daha fazlasını oku' düğmesini tıklar)"
 
 #: addon/appModules/whatsapp_root.py:458
 msgid "No message found"
-msgstr ""
+msgstr "Mesaj bulunamadı"
 
 #: addon/appModules/whatsapp_root.py:579
 msgid "Text not found"
-msgstr ""
+msgstr "Metin bulunamadı"
 
 #: addon/appModules/whatsapp_root.py:588
 msgid "Open context menu"
-msgstr ""
+msgstr "Bağlam menüsünü aç"
 
 #: addon/appModules/whatsapp_root.py:602 addon/appModules/whatsapp_root.py:632
 #: addon/appModules/whatsapp_root.py:635
 msgid "No menu found"
-msgstr ""
+msgstr "Menü bulunamadı"
 
 #: addon/appModules/whatsapp_root.py:638
 msgid "Focus message composer"
-msgstr ""
+msgstr "Odak mesaj oluşturucu"
 
 #: addon/appModules/whatsapp_root.py:650 addon/appModules/whatsapp_root.py:711
 #: addon/appModules/whatsapp_root.py:713
 msgid "Message composer not found"
-msgstr ""
+msgstr "Mesaj oluşturucu bulunamadı"
 
 #: addon/appModules/whatsapp_root.py:873
 msgid "Go to WhatsApp conversation list"
-msgstr ""
+msgstr "WhatsApp konuşma listesine git"
 
 #: addon/appModules/whatsapp_root.py:907 addon/appModules/whatsapp_root.py:963
 #: addon/appModules/whatsapp_root.py:966
 msgid "Conversation list not found"
-msgstr ""
+msgstr "Konuşma listesi bulunamadı"
 
 #: addon/appModules/whatsapp_root.py:979
 msgid "Go to WhatsApp message list"
-msgstr ""
+msgstr "WhatsApp mesaj listesine git"
 
 #: addon/appModules/whatsapp_root.py:991 addon/appModules/whatsapp_root.py:1047
 msgid "Message list not found"
-msgstr ""
+msgstr "Mesaj listesi bulunamadı"
 
 #: addon/appModules/whatsapp_root.py:1060
 msgid "Toggle phone number filtering in conversation list"
-msgstr ""
+msgstr "Konuşma listesinde telefon numarası filtrelemesini değiştirir"
 
 #: addon/appModules/whatsapp_root.py:1066
 msgid "Use this command in the conversation list"
-msgstr ""
+msgstr "Konuşma listesinde bu komutu kullanır"
 
 #: addon/appModules/whatsapp_root.py:1075
 msgid "Conversation list: phone numbers hidden"
-msgstr ""
+msgstr "Konuşma listesi: telefon numaralarını gizle"
 
 #: addon/appModules/whatsapp_root.py:1077
 msgid "Conversation list: phone numbers visible"
-msgstr ""
+msgstr "Konuşma listesi: telefon numaralarını göster"
 
 #: addon/appModules/whatsapp_root.py:1082
 msgid "Toggle phone number filtering in message list"
-msgstr ""
+msgstr "Mesaj listesinde telefon numarası filtrelemesini değiştirir"
 
 #: addon/appModules/whatsapp_root.py:1088
 msgid "Use this command in the message list"
-msgstr ""
+msgstr "Mesaj listesinde bu komutu kullanır"
 
 #: addon/appModules/whatsapp_root.py:1097
 msgid "Message list: phone numbers hidden"
-msgstr ""
+msgstr "Mesaj listesi: telefon numaralarını gizle"
 
 #: addon/appModules/whatsapp_root.py:1099
 msgid "Message list: phone numbers visible"
-msgstr ""
+msgstr "Mesaj listesi: telefon numaralarını göster"
 
 #. Add-on summary/title, usually the user visible name of the add-on
 #. Translators: Summary/title for this add-on
 #. to be shown on installation and add-on information found in add-on store
 #: buildVars.py:21
 msgid "WhatsApp Desktop accessibility enhancements"
-msgstr ""
+msgstr "WhatsApp Masaüstü erişilebilirlik geliştirmeleri"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-on store
@@ -138,12 +139,27 @@ msgstr ""
 msgid ""
 "Provides accessibility improvements for the web-based WhatsApp Desktop, "
 "including navigation shortcuts, message interaction enhancements, and better "
-"screen reader support."
+"screen reader support.\n"
+"\n"
+"Features:\n"
+"- Navigation shortcuts (Alt+1, Alt+2, Alt+D)\n"
+"- Voice message playback (Enter)\n"
+"- Context menu access (Shift+Enter)\n"
+"- Toggle phone number filtering in conversations and messages"
 msgstr ""
+"Dolaşım kısayolları, mesaj etkileşimi geliştirmeleri ve daha iyi ekran "
+"okuyucu desteği de dahil olmak üzere web tabanlı WhatsApp Masaüstü için "
+"erişilebilirlik iyileştirmeleri sağlar.\n"
+"\n"
+"Özellikler:\n"
+"- Dolaşım kısayolları (Alt+1, Alt+2, Alt+D)\n"
+"- Sesli mesajı oynat (Enter)\n"
+"- Bağlam menüsü erişimi (Shift+Enter)\n"
+"- Konuşmalarda ve mesajlarda telefon numarası filtrelemesini açma/kapatma"
 
 #. Brief changelog for this version
 #. Translators: what's new content for the add-on version to be shown in the add-on store
-#: buildVars.py:29
+#: buildVars.py:35
 msgid ""
 "Initial release.\n"
 "- Navigation shortcuts for conversation list, message list, and message "
@@ -153,3 +169,10 @@ msgid ""
 "- Phone number filtering toggle for conversations and messages.\n"
 "- Automatic focus mode activation in WhatsApp Desktop."
 msgstr ""
+"İlk sürüm.\n"
+"- Konuşma listesi, mesaj listesi ve mesaj oluşturucu için dolaşım "
+"kısayolları.\n"
+"- Bireysel sohbetler ve gruplar için sesli mesaj oynatma desteği.\n"
+"- Mesaj eylemleri için bağlam menüsü erişimi.\n"
+"- Konuşmalar ve mesajlar için telefon numarası filtreleme geçişi.\n"
+"- WhatsApp Masaüstünde otomatik odaklama modunun etkinleştirilmesi."
