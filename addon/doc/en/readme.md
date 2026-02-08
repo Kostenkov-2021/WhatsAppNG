@@ -41,6 +41,19 @@ Configure shortcuts in:
 
 ## Changelog
 
+### Version 1.3.0 (2026-02-07)
+
+**Added:**
+- Turkish translation support
+- Toggle automatic Focus Mode option (configure gesture in Input Gestures)
+
+**Changed:**
+- Improved performance: Navigation commands are now faster on repeated use
+- Escape key now passes through to WhatsApp correctly
+
+**Fixed:**
+- Enter now plays video messages (previously only worked for audio)
+
 ### Version 1.1.1 (2025-01-31)
 
 **Added:**

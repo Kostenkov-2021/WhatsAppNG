@@ -41,6 +41,19 @@ Configure os atalhos em:
 
 ## Registro de Alterações
 
+### Versão 1.3.0 (2026-02-07)
+
+**Adicionado:**
+- Suporte à tradução turca
+- Opção para alternar Modo de Foco automático (configure o gesto em Gestos de Entrada)
+
+**Alterado:**
+- Performance melhorada: Comandos de navegação agora são mais rápidos em usos repetidos
+- Tecla Escape agora passa corretamente para o WhatsApp
+
+**Corrigido:**
+- Enter agora reproduz mensagens de vídeo (anteriormente funcionava apenas para áudio)
+
 ### Versão 1.1.1 (2025-01-31)
 
 **Adicionado:**

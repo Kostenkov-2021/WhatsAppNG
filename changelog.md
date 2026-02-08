@@ -5,6 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.0] - 2026-02-07
+
+### Added
+- **Turkish translation**: Full Turkish language support thanks to Umut KORKMAZ
+- **Toggle automatic Focus Mode**: Option to disable automatic Focus Mode when you need Browse Mode
+  - Configure your preferred gesture in Input Gestures dialog
+  - Useful when you need to use Browse Mode features in WhatsApp
+
+### Changed
+- **Improved performance**: Navigation commands (Alt+1, Alt+2, Alt+D) are now faster on repeated use
+- **Escape key now passes through**: Works correctly with WhatsApp's native behavior
+
+### Fixed
+- **Enter now plays videos**: Pressing Enter on a video message now starts playback (previously only worked for audio)
+
 ## [1.1.1] - 2025-01-31
 
 ### Added

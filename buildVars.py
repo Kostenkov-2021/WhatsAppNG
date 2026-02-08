@@ -23,15 +23,14 @@ addon_info = AddonInfo(
 	# Translators: Long description to be shown for this add-on on add-on information from add-on store
 	addon_description=_("Provides accessibility improvements for the web-based WhatsApp Desktop, including navigation shortcuts, message interaction enhancements, and better screen reader support."),
 	# version
-	addon_version="1.1.1",
+	addon_version="1.3.0",
 	# Brief changelog for this version
 	# Translators: what's new content for the add-on version to be shown in the add-on store
-	addon_changelog=_("""Initial release.
-- Navigation shortcuts for conversation list, message list, and message composer.
-- Voice message playback with support for individual chats and groups.
-- Context menu access for message actions.
-- Phone number filtering toggle for conversations and messages.
-- Automatic focus mode activation in WhatsApp Desktop."""),
+	addon_changelog=_("""- Turkish translation support.
+- Toggle automatic Focus Mode option.
+- Improved navigation performance.
+- Video playback with Enter key.
+- Escape key now passes through correctly."""),
 	# Author(s)
 	addon_author="Nuno Costa <nrfcosta21@gmail.com>",
 	# URL for the add-on documentation support
