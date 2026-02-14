@@ -1,0 +1,187 @@
+# WhatsApp NG - English Translation
+# Copyright (C) 2025
+# This file is distributed under the same license as the whatsAppNG package.
+# Nuno Costa <nrfcosta21@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: whatsAppNG 1.1.1\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2026-02-06 21:27+0000\n"
+"PO-Revision-Date: 2026-02-14 10:07+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.7\n"
+
+#: addon/appModules/whatsapp_root.py:44
+msgid "WhatsApp NG"
+msgstr "WhatsApp NG"
+
+#: addon/appModules/whatsapp_root.py:265
+msgid "Copy current message to clipboard"
+msgstr "Aktuelle Nachricht in die Zwischenablage kopieren"
+
+#: addon/appModules/whatsapp_root.py:306 addon/appModules/whatsapp_root.py:334
+#: addon/appModules/whatsapp_root.py:346
+msgid "Copied"
+msgstr "Kopiert"
+
+#. Not a message or couldn't copy
+#: addon/appModules/whatsapp_root.py:350
+msgid "Cannot copy"
+msgstr "Kann nicht kopiert werden"
+
+#: addon/appModules/whatsapp_root.py:354
+msgid "Play voice message"
+msgstr "Sprachnachricht abspielen"
+
+#. No slider or button found
+#: addon/appModules/whatsapp_root.py:368 addon/appModules/whatsapp_root.py:437
+#: addon/appModules/whatsapp_root.py:440
+msgid "No audio message found"
+msgstr "Keine Sprachnachricht gefunden"
+
+#. Translators: Read complete message (click "read more" and speak text)
+#: addon/appModules/whatsapp_root.py:444
+msgid "Read complete message (clicks 'read more' button)"
+msgstr ""
+"Vollständige Nachricht lesen (klickt auf die Schaltfläche „Mehr lesen“)"
+
+#. Not a text message
+#: addon/appModules/whatsapp_root.py:480
+msgid "Not a text message"
+msgstr "Keine Textnachricht"
+
+#: addon/appModules/whatsapp_root.py:458
+msgid "No message found"
+msgstr "Keine Nachricht gefunden"
+
+#: addon/appModules/whatsapp_root.py:579
+msgid "Text not found"
+msgstr "Text nicht gefunden"
+
+#: addon/appModules/whatsapp_root.py:588
+msgid "Open context menu"
+msgstr "Kontextmenü öffnen"
+
+#: addon/appModules/whatsapp_root.py:602 addon/appModules/whatsapp_root.py:632
+#: addon/appModules/whatsapp_root.py:635
+msgid "No menu found"
+msgstr "Kein Menü gefunden"
+
+#: addon/appModules/whatsapp_root.py:638
+msgid "Focus message composer"
+msgstr "Verfasser von Fokusnachrichten"
+
+#: addon/appModules/whatsapp_root.py:650 addon/appModules/whatsapp_root.py:711
+#: addon/appModules/whatsapp_root.py:713
+msgid "Message composer not found"
+msgstr "Nachrichtenverfasser nicht gefunden"
+
+#: addon/appModules/whatsapp_root.py:873
+msgid "Go to WhatsApp conversation list"
+msgstr "Zur WhatsApp-Konversationsliste gehen"
+
+#: addon/appModules/whatsapp_root.py:907 addon/appModules/whatsapp_root.py:963
+#: addon/appModules/whatsapp_root.py:966
+msgid "Conversation list not found"
+msgstr "Konversationsliste nicht gefunden"
+
+#: addon/appModules/whatsapp_root.py:979
+msgid "Go to WhatsApp message list"
+msgstr "Zur WhatsApp-Nachrichtenliste gehen"
+
+#: addon/appModules/whatsapp_root.py:991 addon/appModules/whatsapp_root.py:1047
+msgid "Message list not found"
+msgstr "Nachrichtenliste nicht gefunden"
+
+#: addon/appModules/whatsapp_root.py:1060
+msgid "Toggle phone number filtering in conversation list"
+msgstr "Schalten Sie die Telefonnummernfilterung in der Konversationsliste um"
+
+#: addon/appModules/whatsapp_root.py:1066
+msgid "Use this command in the conversation list"
+msgstr "Verwenden Sie diesen Befehl in der Konversationsliste"
+
+#: addon/appModules/whatsapp_root.py:1075
+msgid "Conversation list: phone numbers hidden"
+msgstr "Konversationsliste: Telefonnummern ausgeblendet"
+
+#: addon/appModules/whatsapp_root.py:1077
+msgid "Conversation list: phone numbers visible"
+msgstr "Konversationsliste: Telefonnummern sichtbar"
+
+#: addon/appModules/whatsapp_root.py:1082
+msgid "Toggle phone number filtering in message list"
+msgstr "Schalten Sie die Telefonnummernfilterung in der Nachrichtenliste um"
+
+#: addon/appModules/whatsapp_root.py:1088
+msgid "Use this command in the message list"
+msgstr "Verwenden Sie diesen Befehl in der Nachrichtenliste"
+
+#: addon/appModules/whatsapp_root.py:1097
+msgid "Message list: phone numbers hidden"
+msgstr "Nachrichtenliste: Telefonnummern ausgeblendet"
+
+#: addon/appModules/whatsapp_root.py:1099
+msgid "Message list: phone numbers visible"
+msgstr "Nachrichtenliste: Telefonnummern sichtbar"
+
+#: addon/appModules/whatsapp_root.py:1117
+msgid "Toggle automatic Focus Mode"
+msgstr "Schalten Sie den automatischen Fokusmodus um"
+
+#: addon/appModules/whatsapp_root.py:1127
+msgid "Auto Focus Mode: enabled"
+msgstr "Autofokus-Modus: aktiviert"
+
+#: addon/appModules/whatsapp_root.py:1129
+msgid "Auto Focus Mode: disabled"
+msgstr "Autofokus-Modus: deaktiviert"
+
+#. Add-on summary/title, usually the user visible name of the add-on
+#. Translators: Summary/title for this add-on
+#. to be shown on installation and add-on information found in add-on store
+#: buildVars.py:21
+msgid "WhatsApp Desktop accessibility enhancements"
+msgstr "Verbesserungen der Barrierefreiheit von WhatsApp Desktop"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-on store
+#: buildVars.py:24
+msgid ""
+"Provides accessibility improvements for the web-based WhatsApp Desktop, "
+"including navigation shortcuts, message interaction enhancements, and better "
+"screen reader support."
+msgstr ""
+"Bietet Verbesserungen der Barrierefreiheit für den webbasierten WhatsApp-"
+"Desktop, einschließlich Navigationsverknüpfungen, Verbesserungen der "
+"Nachrichteninteraktion und besserer Unterstützung für "
+"Bildschirmleseprogramme."
+
+#. Brief changelog for this version
+#. Translators: what's new content for the add-on version to be shown in the add-on store
+#: buildVars.py:29
+msgid ""
+"Initial release.\n"
+"- Navigation shortcuts for conversation list, message list, and message "
+"composer.\n"
+"- Voice message playback with support for individual chats and groups.\n"
+"- Context menu access for message actions.\n"
+"- Phone number filtering toggle for conversations and messages.\n"
+"- Automatic focus mode activation in WhatsApp Desktop."
+msgstr ""
+"Erstveröffentlichung.\n"
+"- Navigationsverknüpfungen für Konversationsliste, Nachrichtenliste und "
+"Nachrichtenersteller.\n"
+"- Wiedergabe von Sprachnachrichten mit Unterstützung für einzelne Chats und "
+"Gruppen.\n"
+"- Kontextmenüzugriff für Nachrichtenaktionen.\n"
+"- Umschalten der Telefonnummernfilterung für Konversationen und "
+"Nachrichten.n\n"
+"- Automatische Aktivierung des Fokusmodus in WhatsApp Desktop."

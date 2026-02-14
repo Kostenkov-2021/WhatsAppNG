@@ -48,3 +48,4 @@ xgettext.exe
 libexpat.dll
 # Claude AI
 .claude/
+agents.md
